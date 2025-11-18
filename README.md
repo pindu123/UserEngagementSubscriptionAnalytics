@@ -131,12 +131,7 @@ This page analyzes how users interact with the platform:
 
 <hr>
 
-<h2>📘 KPI Explanations</h2>
-<p>
-A detailed explanation of all KPIs used in the dashboard can be found in the 
-<b>“KPI Definitions”</b> section of this README (or below if added).
-</p>
-
+ 
 <hr>
 
 <h2>🛠️ Technologies Used</h2>
@@ -148,14 +143,5 @@ A detailed explanation of all KPIs used in the dashboard can be found in the
   <li>GitHub for version control</li>
 </ul>
 
-<hr>
-
-<p><b>⭐ If you'd like, I can provide:</b></p>
-<ul>
-  <li>A collapsible Table of Contents</li>
-  <li>HTML + Markdown hybrid formatting</li>
-  <li>Separate KPI explanation section in HTML format</li>
-  <li>Dark-themed styling for GitHub README</li>
-</ul>
-
+ 
 
